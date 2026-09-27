@@ -5,8 +5,8 @@
 
 aspiring full-stack developer who wants software to be delightful, not just functional.
 
-- 📚 studying at the university of virginia
-- 🛠️ lately building with typescript, react, and next.js
+- 📚 studying computer science at the university of virginia, class of '27
+- 🛠️ lately building full-stack apps, cloud infrastructure, and ai agents
 - 🌱 always looking for new things to learn and ways to improve
 - ☕ off the keyboard: café-hopping, photography, volleyball, oolong or matcha
 
@@ -19,9 +19,26 @@ aspiring full-stack developer who wants software to be delightful, not just func
 
 #### toolbox
 
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white)
+**languages**
+
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-A8B9CC?logo=c&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=white)
+
+**frameworks**
+
 ![React](https://img.shields.io/badge/react-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs)
+![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
+**tools**
+
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazonwebservices&logoColor=white)
