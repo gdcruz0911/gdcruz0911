@@ -1,6 +1,5 @@
 ### hi, i'm gabriel 🦦
 
-[![GitHub](https://img.shields.io/badge/github-gdcruz0911-181717?logo=github)](https://github.com/gdcruz0911)
 [![LinkedIn](https://img.shields.io/badge/linkedin-jgdcruz-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jgdcruz/)
 [![Email](https://img.shields.io/badge/email-say%20hi-EA4335?logo=gmail&logoColor=white)](mailto:jgdcruz1179@gmail.com)
 
