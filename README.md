@@ -41,4 +41,4 @@ aspiring full-stack developer who wants software to be delightful, not just func
 
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02LjUgMTlhNC41IDQuNSAwIDAgMS0uNi04Ljk2QTYuNSA2LjUgMCAwIDEgMTguNCA4LjYgNSA1IDAgMCAxIDE3LjUgMTlaIi8+PC9zdmc+)
